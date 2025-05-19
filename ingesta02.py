@@ -4,7 +4,7 @@ import mysql.connector
 from io import StringIO
 
 # Parámetros
-nombreBucket = "gcr-output-01"
+nombreBucket = "flx-output-mysql"
 archivo_csv_s3 = "data.csv"
 
 # Datos de conexión a MySQL (cambia estos valores por los tuyos)
